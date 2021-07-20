@@ -1,0 +1,28 @@
+.panda-bg-banner{
+background-color: #fceae8;
+}
+.pad{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.catagories img{
+    width: 100px;
+    height: 100px;
+}
+.bg-watch{
+    background-color: #ffa500;
+}
+.bg-bags{
+    background-color:#da70d6 ;
+}
+.bg-shoes{
+    background-color:#0000ff ;
+}
+.btn-bg{
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    background-image: linear-gradient(to bottom, #ff3785 0%, #FF136F 100%);
+}
